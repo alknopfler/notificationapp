@@ -4,7 +4,6 @@ import (
 	"github.com/sirupsen/logrus"
 	"io"
 	"time"
-	"github.com/getsentry/raven-go"
 )
 
 
