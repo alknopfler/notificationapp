@@ -12,5 +12,7 @@ var(
 	Database = ComponentName+"-db"
 	Channel = ComponentName + "-channel"
 	Template = ComponentName + "-template"
+	Productor = "Productor"
+	SENDER = "SENDER"
 )
 
